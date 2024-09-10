@@ -1,0 +1,15 @@
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\bin\Debug\net6.0\KalkulatorSederhana.exe
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\bin\Debug\net6.0\KalkulatorSederhana.deps.json
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\bin\Debug\net6.0\KalkulatorSederhana.runtimeconfig.json
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\bin\Debug\net6.0\KalkulatorSederhana.dll
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\bin\Debug\net6.0\KalkulatorSederhana.pdb
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.csproj.AssemblyReference.cache
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.AssemblyInfoInputs.cache
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.AssemblyInfo.cs
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.dll
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\refint\KalkulatorSederhana.dll
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.pdb
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\KalkulatorSederhana.genruntimeconfig.cache
+D:\LatihanMandiri\ProjectKalkulatorC#\src\KalkulatorSederhana\obj\Debug\net6.0\ref\KalkulatorSederhana.dll
